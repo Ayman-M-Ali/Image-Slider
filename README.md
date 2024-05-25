@@ -31,7 +31,9 @@ You will discover:
 
 5- Make the first image is active when reloading the page.
 
-6- Added the name of my mentor in the footer to thank him.
+6- Responsive App.
+
+7- Added the name of my mentor in the footer to thank him.
 
 
 ## Technologies Used
