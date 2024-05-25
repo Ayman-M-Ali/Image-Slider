@@ -135,3 +135,21 @@ footer a {
   font-weight: bold;
   text-decoration: none;
 }
+
+/* Responsive styles */
+@media (max-width: 768px) {
+ .slider {
+  width: 100%; /* Full width on smaller screens */
+  height: auto; /* Adjust height automatically */
+ }
+
+ .thumbnail-container {
+  width: 100%; /* Full width on smaller screens */
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Responsive grid */
+ }
+}
+
+@media (max-width: 480px) {
+ h1 {
+ font-size: 24px; /* Smaller font size on very small screens */
+}
