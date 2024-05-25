@@ -1,5 +1,10 @@
 # Image Slider With Thumbnail
 
+
+![127 0 0 1_5500_index html](https://github.com/Ayman-M-Ali/Image-Slider/assets/65292151/b328a5ef-06cc-4555-9426-75a7b4671f16)
+
+
+
 This challenge is a project that I completed from [elzero.courses](https://www.elzero.courses/). 
 
 ## Project Overview

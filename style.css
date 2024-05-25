@@ -135,30 +135,3 @@ footer a {
   font-weight: bold;
   text-decoration: none;
 }
-
-/* Responsive Styles */
-@media (max-width: 768px) {
-  .container {
-    margin: 30px 15px;
-  }
-  .slider {
-    width: 100%; /* Full width on smaller screens */
-  }
-  .thumbnail-container {
-    width: 90%; /* Full width on smaller screens */
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Responsive grid */
-  }
-  footer {
-    margin-top: 10px
-  }
-}
-  
-  @media (max-width: 480px) {
-    h1 {
-    font-size: 24px; /* Smaller font size on very small screens */
-    }
-    footer {
-      margin-top: 10px
-    }
-}
-  
